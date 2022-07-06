@@ -1,0 +1,30 @@
+{
+  "name": "shopify-react-context",
+  "version": "1.0.0",
+  "description": "React context for the shopify-buy sdk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderProd/shopify-react-context.git"
+  },
+  "keywords": [
+    "shopify",
+    "context",
+    "react",
+    "shopify-buy"
+  ],
+  "author": "Alexander Hörl <mail@alexanderhoerl.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderProd/shopify-react-context/issues"
+  },
+  "homepage": "https://github.com/AlexanderProd/shopify-react-context#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "react": "^18.2.0",
+    "shopify-buy": "2.11.0"
+  }
+}
