@@ -24,7 +24,9 @@
   "homepage": "https://github.com/AlexanderProd/shopify-react-context#readme",
   "dependencies": {
     "isomorphic-fetch": "^3.0.0",
-    "react": "^18.2.0",
     "shopify-buy": "2.11.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
   }
 }
