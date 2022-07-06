@@ -2,7 +2,7 @@
   "name": "shopify-react-context",
   "version": "1.0.0",
   "description": "React context for the shopify-buy sdk.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
